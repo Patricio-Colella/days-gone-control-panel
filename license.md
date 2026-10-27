@@ -161,4 +161,4 @@ simply how these tools work in practice.
 
 ---
 
-*days-gone-control-panel · Updated 2026-10-26 · Shared under the MIT License*
+*days-gone-control-panel · Updated 2026-10-27 · Shared under the MIT License*
